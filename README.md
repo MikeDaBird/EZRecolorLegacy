@@ -12,7 +12,9 @@ It also includes a Baker window, under "Mike Da Bird > EZRecolor > Texture Baker
 
 ![image](https://github.com/MikeDaBird/EZRecolor/assets/24901068/16cb2725-3726-48f5-82f3-8f274e5cd5e9)
 
-Right now, the [Mike'Vali](https://mikedabird.itch.io/mikevali) and [Rayvian](https://mikedabird.itch.io/rayvian) avatar bases are supported plus general material baking. Avigen avatar base is coming soon!
+Right now, the [Mike'Vali](https://mikedabird.itch.io/mikevali) and [Rayvian](https://mikedabird.itch.io/rayvian) avatar bases are supported plus general material baking. Avigen avatar base is coming soon!*
+
+**The Avigen and plenty other assets are now supported in the brand new version mentioned at the top of the page!*
 
 ---
 

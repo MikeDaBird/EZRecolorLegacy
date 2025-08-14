@@ -1,5 +1,6 @@
 # EZRecolor Legacy
-***This is the Legacy version of EZRecolor. For the brand new and updated version, visit [mikedabird.itch.io/ezrecolor](https://mikedabird.itch.io/ezrecolor). For more info, visit [ezrecolor.net](https://ezrecolor.net) and its Supported Avatars & Documentation pages!***
+***This was the Legacy version of EZRecolor. For the brand new and updated version open for creators to use and support their own assets, visit [mikedabird.itch.io/ezrecolor](https://mikedabird.itch.io/ezrecolor). For more info, visit [ezrecolor.net](https://ezrecolor.net) and its Supported Avatars & Documentation pages!***
+
 ## A Unity shader that makes recoloring textures easy and that can bake them into rasterized textures
 This shader was initially made for my avatars, such as the [Avigen](https://mikedabird.itch.io/avigen) and the [Mike'Vali](https://mikedabird.itch.io/mikevali)
 
